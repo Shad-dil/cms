@@ -1,0 +1,302 @@
+img{
+	    vertical-align: middle;
+    width: 100%;
+
+}
+.off{
+        
+        margin-left: 110px;
+    margin-bottom: 30px;
+    margin-top: -70px;
+}
+.fri{
+    border-radius: 100%;
+    bottom: -0.0625rem;
+    height: -webkit-calc(100% + 0.125rem);
+    height: calc(100% + 0.125rem);
+    left: -0.0625rem;
+    max-width: none; 
+        width: 50px;
+    height: 50px;
+        margin-left: 50px;
+    margin-bottom: 40px;
+}
+.csk{
+        color: #000;
+    text-decoration: none;
+    font-weight: 400;
+    font-size:15px;
+    font-family: "MaisonNeue", sans-serif;
+}
+.csk:hover{
+    color: #000;
+    text-decoration: none;
+}
+.rcb{
+  padding-top: 30px;
+    letter-spacing: 2px;
+    margin: 0;
+    text-transform: uppercase;
+    color: #a1daca; 
+        font-family: "MaisonNeue", sans-serif;  
+}
+.dbox{
+    padding-left: 60px;
+}
+.head{
+	            font-size: 15px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+margin-top: 50%;
+    padding-left: 60px;
+}
+h2{
+	    font-size: 30px;
+    font-family: "Playfair Display", serif;
+    line-height: initial;
+    margin-bottom: 3.125rem;
+        padding-left: 60px;
+   
+}
+h3{
+    padding-left: 70px;
+    padding-top: 30px;
+        font-size: 1em;
+    font-weight: 600;
+    padding-bottom: 60px;
+    letter-spacing: 2px;
+}
+#bt1{
+        background: #051033;
+    border: 1px solid rgba(5,16,51,0.2);
+    border-radius: 0;
+    color: #fff;
+    cursor: pointer;
+    font-family: "MaisonNeue", sans-serif;
+    font-size: 0.75em;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    line-height: 1.125em;
+    padding:20px;
+    text-align: center;
+    text-transform: uppercase;
+    width: 70%;
+    margin: 20px;
+    
+}
+#bt1:hover{
+    background: #3959bf;
+    border: 1px solid #3959bf;
+}
+.wl{
+         position: relative;
+    text-align: center;
+        padding: 40px 10px 10px;
+font-family: "MaisonNeue", sans-serif;
+            display: block;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    margin-bottom: 1.875rem;
+    text-transform: uppercase
+}
+.align{
+    width: 73.28125%;
+    max-width: 938px;
+    margin: 0 auto;
+}
+.fot{    font-family: "Playfair Display", serif;
+text-align: center;
+    font-size: 25px;
+    line-height: 38px;
+     font-weight: 400;
+}
+.ima{
+    display: block;
+    min-height: 1px;
+    width: 100%;
+   
+}
+.eyebrow{
+
+        line-height: 1.75rem;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-weight: 600;
+    position: relative;
+   margin-left: 30px;
+       padding-top: 100px;
+ 
+}
+.webmonk {
+    padding-right: 30px;
+   display: inline-flex;
+    font-size: 14px;
+   
+    padding-left: 27%;
+    padding-top: 70px;
+   letter-spacing: 1.6px;
+    color: #a1daca;
+    font-weight: 700;
+} 
+.webmonk i{
+    padding-right: 20px;
+}
+.pv-tip .svg {
+    margin-right: 0.9375rem;
+    vertical-align: middle;
+}
+.svgf:before{
+        background-position: 0px -174px;
+    width: 62px;
+    height: 47px;
+    margin-left: 28%;
+    display: inline-block;
+}
+.svg:before{
+    background-image: url('C://Users/SAJJAD/Downloads/sprite-icon-2209f0b2.svg' );
+    background-repeat: no-repeat;
+    background-size: 106px 1337px;
+    content: "";
+    display: block;
+    font-size: 16px;
+}
+.dd{
+        
+
+}
+.yusuf{
+        font-size: x-large;
+    max-width: 1000px;
+    padding-left: 30%;
+    color: #fff;
+        padding-bottom: 50px;
+            font-family: "Playfair Display", serif;
+}
+.copy{
+
+    max-width: 457px;
+        
+         font-family: "MaisonNeue", sans-serif;
+    font-size: 16px;
+        position: relative;
+           
+           margin-left: 30px;
+}
+.last{
+        font-family: "Playfair Display", serif;
+        color: #000;
+    text-decoration: none;
+    position: absolute;
+        font-weight: 500;
+    font-size: xx-large;
+        margin: 0;
+    line-height: 1.55;
+    padding-top: 50px;
+}
+.shad{
+   
+
+    min-height: 1px;
+    width: 100%;
+    margin-top: 60px;
+  
+}
+
+.imran{
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 600;
+    width: 50%;
+   
+        padding: 20px;
+    
+}
+.win{
+        font-family: "Playfair Display", serif;
+    font-size: 25px;
+    text-align: center;
+    line-height: 2.35;
+    padding-left: 150px;
+    padding-top: 40px;
+    padding-right: 70px;
+
+}
+.router{
+        font-size: 14px;
+    font-family: "MaisonNeue", sans-serif;
+    margin: 0;
+    line-height: normal;
+    letter-spacing: 1.6px;
+    padding-left: 70px;
+    padding-left: 170px;
+    font-weight: bold;
+        padding-top: 40px;
+}
+.mi{
+    padding-top: 30px;
+    letter-spacing: 2px;
+    margin: 0;
+    text-transform: uppercase;
+    font-size: 22px;
+    font-family: "MaisonNeue", sans-serif;
+    font-weight: 600;
+}
+.saj{
+    font-style: normal;
+    max-width: 457px;
+    font-family: "MaisonNeue", sans-serif;
+    line-height: 1.6;
+    font-size: 16px;
+        padding-bottom: 40px;
+}
+.web{
+            margin-left: 50px;
+    font-size: 25px;
+    font-family: "Playfair Display", serif;
+    margin: 0;
+    line-height: 1.55;
+    margin-top: 45px;
+        margin-bottom: 30px;
+           
+    margin-block-start: 16px;
+    margin-block-end: 16px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.hr{
+    font-size: 1.5625rem;
+    font-family: "Playfair Display", serif;
+    font-weight: 500;
+    line-height: 1.3;
+        padding-top: 90px;
+    padding-bottom: 10px;
+        font-size: 12px;
+    line-height: 1.6;
+}
+.hr2{
+    font-size: 1.5625rem;
+    font-family: "Playfair Display", serif;
+    font-weight: 500;
+    line-height: 1.3;
+        color: #8e98b1;
+           padding: 20px 40px 20px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
